@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunocruzzz
-- 👀 I’m interested in dive back into programming.
+- 👀 I’m interested in dive back into programming. PHP -- Python.
 - 🌱 I’m currently learning about github itself, automation, nodeJS and React.
 - 📫 How to reach me: brunocruzz at gmail dot com
 
