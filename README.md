@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @brunocruzzz
+- 👋 Hi, I’m @brunocruzzz, a back-end Python developer.
 - 👀 I’m interested in dive back into programming Python.
 - 🌱 I’m currently learning about github itself, automation, nodeJS and React.
 - 📫 How to reach me: brunocruzz at gmail dot com
 - :clipboard: LinkedIn: https://www.linkedin.com/in/brunocruzbueno
 - :page_with_curl: Lattes: http://lattes.cnpq.br/8843334954443112
 
-These are my interests right now:
-CLI(Command Line Interface) solutions;
-Python packages: Selenium - Paramiko - requests;
+These are my interests right now:<br />
+CLI(Command Line Interface) solutions;<br />
+Python packages: Selenium - Paramiko - requests;<br />
 Shell Script.
 
 <!---
