@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 - 👋 Hi, I’m @brunocruzzz, a back-end Python developer.
 - 👀 I’m interested in dive back into programming Python.
 - 🌱 I’m currently learning about github itself, automation, nodeJS and React.
