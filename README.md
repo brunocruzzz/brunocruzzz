@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=python,php,mysql,postgres,vscode,linux,bash,regex,django&theme=light)](https://skillicons.dev)
+<center>[![My Skills](https://skillicons.dev/icons?i=python,php,mysql,postgres,vscode,linux,bash,regex,django&theme=light)](https://skillicons.dev)</center>
 
 - 👋 Hi, I’m @brunocruzzz, a back-end Python developer.
 - 👀 I’m interested in dive back into programming Python.
