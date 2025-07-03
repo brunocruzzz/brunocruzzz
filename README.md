@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @brunocruzzz, a back-end Python developer.
 - 👀 I’m interested in dive back into programming Python.
-- 🌱 I’m currently learning about GitHub itself, nodeJS and React. 
+- 🌱 I’m currently learning about nodeJS and React.
 - 📫 How to reach me: brunocruzz at gmail dot com
 - :clipboard: LinkedIn: https://www.linkedin.com/in/brunocruzbueno
 - :page_with_curl: Lattes: http://lattes.cnpq.br/8843334954443112
